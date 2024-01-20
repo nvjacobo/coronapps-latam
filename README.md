@@ -53,9 +53,9 @@ However, as Figures 1 and 2 show, while a variety of intermediaries are used, of
 
 
 ![The service providers used by different apps](/img/figure1.png "The service providers used by different apps").
-
 Figure 1: The service providers used by different apps
 
+![Many apps end up using the infrastructure of only a few providers](/img/figure2.png "Many apps end up using the infrastructure of only a few providers").
 Figure 2: Many apps end up using the infrastructure of only a few providers
 
 _Privacy and data collection_
