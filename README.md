@@ -42,6 +42,7 @@ _App functionalities_
 
 For the analysis of the functionalities, the specificities of each application were captured from the user interface. In the functionality matrix we can see that the services offered by the application are actually limited: most of them offer self-diagnosis, figures and graphs on the disease, a hotline, maps (of health centres or of the distribution of infection in the territory), general information about the virus and disease, and frequently asked questions. In return, as mentioned, most of these applications require the sharing of location and personal data.
 
+![App functionalities](/img/table2.png "App functionalities").
 
 _Cloud infrastructure and services_
 -----------------------------------
