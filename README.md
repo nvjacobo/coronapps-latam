@@ -52,6 +52,7 @@ In the total set of network traffic analysis for the nine apps, we documented th
 However, as Figures 1 and 2 show, while a variety of intermediaries are used, offering specialised services, many applications then drift to two or three common-end infrastructures. This pattern raises several economic, political, technical and legal issues.
 
 
+![The service providers used by different apps](/img/figure1.png "The service providers used by different apps").
 
 Figure 1: The service providers used by different apps
 
