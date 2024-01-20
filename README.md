@@ -1,28 +1,12 @@
-Global Information Society Watch
+Getting ready for the next pandemic: Public interest technologies in Latin America
 --------------------------------
 
-Latin America
-=============
-
-### Report Year
-
-[2022 - Digital futures for a post pandemic world](https://www.giswatch.org/taxonomy/term/400)
-
-Attachment
-
-Size
-
-[English](gw2022Regional_LAC2.pdf "gw2022Regional_LAC2.pdf")
-
-2.83 MB
+This report was originally published as part of a larger compilation: [“Global Information Society Watch 2021-2022: Global Information Society Watch 2021-2022"](https://www.giswatch.org/taxonomy/term/400)
 
 ### Authored by
 
-[Paola Ricaurte Quijano](https://www.giswatch.org/users/paolaquijano)
-
-[Jacobo Nájera](https://www.giswatch.org/user/1684)
-
-**Getting ready for the next pandemic: Public interest technologies in Latin America**
+- Paola Ricaurte Quijano
+- Jacobo Nájera
 
 Introduction
 ============
@@ -339,5 +323,3 @@ ISBN 978-92-95113-52-7
 APC Serial: APC-202211-CIPP-R-EN-DIGITAL-342
 
 ### Region
-
-
